@@ -1,19 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Jagdish</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | Building real-time web apps</h3>
 
-<!--
-**JAGDISH-TECH-STUDENT/JAGDISH-TECH-STUDENT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  B.Tech in Computer Science @ GLA University | 350+ DSA problems solved on LeetCode
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently building **GameZone** — a real-time multiplayer chess/tic-tac-toe platform
+- 💼 Trainee @ AppSquadz Software Pvt. Ltd. — built **Homigo**, an Airbnb caretaker marketplace
+- 🛠️ Comfortable across the stack: React, Node.js, Express, MongoDB, Socket.io, JWT
+- 📈 350+ problems on LeetCode, 100+ on GeeksforGeeks
+- 💬 Ask me about REST APIs, real-time systems (Socket.io), or payment integrations (Razorpay)
+
+---
+
 ### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -27,3 +29,39 @@ Here are some ideas to get you started:
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+**[GameZone](https://gamezone-b34r.onrender.com/)** — Real-time multiplayer chess & tic-tac-toe platform  
+`React 18` `Vite` `Node.js` `Express 5` `Socket.io` `MongoDB` `JWT`
+
+**[Homigo](https://homigo-cp8k.onrender.com/)** — Service marketplace connecting Airbnb hosts with caretakers  
+`MERN Stack` `Razorpay` `Cloudinary` `JWT`
+
+**API-Gateway** — Unified entry point & routing layer with auth, rate limiting, and security middleware  
+`Node.js` `Express` `Socket.IO` `JWT/bcrypt` `express-rate-limit`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAGDISH-TECH-STUDENT&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAGDISH-TECH-STUDENT&theme=radical" alt="GitHub Streak" height="165">
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JAGDISH-TECH-STUDENT/JAGDISH-TECH-STUDENT/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JAGDISH-TECH-STUDENT/JAGDISH-TECH-STUDENT/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JAGDISH-TECH-STUDENT/JAGDISH-TECH-STUDENT/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<p align="center">📫 Reach me: <em>add your email or LinkedIn here</em></p>
