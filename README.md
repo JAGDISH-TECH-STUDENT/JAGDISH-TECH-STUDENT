@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | MERN Stack | Building real-time web apps</h3>
 
 <p align="center">
-  B.Tech in Computer Science @ GLA University | 350+ DSA problems solved on LeetCode
+  B.Tech in Computer Science @ GLA University | 400+ DSA problems solved on LeetCode
 </p>
 
 ---
