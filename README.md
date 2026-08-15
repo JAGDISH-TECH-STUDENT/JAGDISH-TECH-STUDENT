@@ -45,10 +45,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAGDISH-TECH-STUDENT&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JAGDISH-TECH-STUDENT&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
   <img src="https://streak-stats.demolab.com?user=JAGDISH-TECH-STUDENT&theme=radical" alt="GitHub Streak" height="165">
 </p>
 
