@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://hey-its-me-1.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
