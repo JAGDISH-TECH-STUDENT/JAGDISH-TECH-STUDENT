@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jagdish</h1>
+<h1 align="center">Hi there , I'm Jagdish</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack | Building real-time web apps</h3>
 
 <p align="center">
@@ -7,16 +7,16 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently building **GameZone** — a real-time multiplayer chess/tic-tac-toe platform
-- 💼 Trainee @ AppSquadz Software Pvt. Ltd. — built **Homigo**, an Airbnb caretaker marketplace
-- 🛠️ Comfortable across the stack: React, Node.js, Express, MongoDB, Socket.io, JWT
-- 📈 350+ problems on LeetCode, 100+ on GeeksforGeeks
-- 💬 Ask me about REST APIs, real-time systems (Socket.io), or payment integrations (Razorpay)
+###  About Me
+-  Currently building **GameZone** — a real-time multiplayer chess/tic-tac-toe platform
+-  Trainee @ AppSquadz Software Pvt. Ltd. — built **Homigo**, an Airbnb caretaker marketplace
+-  Comfortable across the stack: React, Node.js, Express, MongoDB, Socket.io, JWT
+-  350+ problems on LeetCode, 100+ on GeeksforGeeks
+-  Ask me about REST APIs, real-time systems (Socket.io), or payment integrations (Razorpay)
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -32,7 +32,7 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 **[GameZone](https://gamezone-b34r.onrender.com/)** — Real-time multiplayer chess & tic-tac-toe platform  
 `React 18` `Vite` `Node.js` `Express 5` `Socket.io` `MongoDB` `JWT`
@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JAGDISH-TECH-STUDENT&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
@@ -54,7 +54,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JAGDISH-TECH-STUDENT/JAGDISH-TECH-STUDENT/output/github-contribution-grid-snake-dark.svg">
