@@ -7,16 +7,16 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently building **GameZone** — a real-time multiplayer chess/tic-tac-toe platform
-- 💼 Trainee @ AppSquadz Software Pvt. Ltd. — built **Homigo**, an Airbnb caretaker marketplace
-- 🛠️ Comfortable across the stack: React, Node.js, Express, MongoDB, Socket.io, JWT
-- 📈 400+ problems on LeetCode, 100+ on GeeksforGeeks
-- 💬 Ask me about REST APIs, real-time systems (Socket.io), or payment integrations (Razorpay)
+###  About Me
+-  Currently building **GameZone** — a real-time multiplayer chess/tic-tac-toe platform
+-  Trainee @ AppSquadz Software Pvt. Ltd. — built **Homigo**, an Airbnb caretaker marketplace
+-  Comfortable across the stack: React, Node.js, Express, MongoDB, Socket.io, JWT
+-  400+ problems on LeetCode, 100+ on GeeksforGeeks
+-  Ask me about REST APIs, real-time systems (Socket.io), or payment integrations (Razorpay)
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -32,7 +32,7 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 **[GameZone](https://gamezone-b34r.onrender.com/)** — Real-time multiplayer chess & tic-tac-toe platform  
 `React 18` `Vite` `Node.js` `Express 5` `Socket.io` `MongoDB` `JWT`
@@ -46,8 +46,8 @@
 ---
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAGDISH-TECH-STUDENT&theme=react-dark" alt="Activity Graph">
   <img src="https://streak-stats.demolab.com?user=JAGDISH-TECH-STUDENT&theme=radical" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAGDISH-TECH-STUDENT&theme=react-dark" alt="Activity Graph" height="165">
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  📫 Reach me: 
+   Reach me: 
   <a href="mailto:js8724285@gmail.com">Email</a> • 
   <a href="https://github.com/JAGDISH-TECH-STUDENT">GitHub</a>
 </p>
