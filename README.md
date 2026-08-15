@@ -6,10 +6,9 @@
 </p>
 <p align="center">
   <a href="https://hey-its-me-1.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/✨_Portfolio-2C2C54?style=for-the-badge&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
 ---
 
 ###  About Me
