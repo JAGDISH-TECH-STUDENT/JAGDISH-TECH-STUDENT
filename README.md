@@ -4,6 +4,11 @@
 <p align="center">
   B.Tech in Computer Science @ GLA University | 400+ DSA problems solved on LeetCode
 </p>
+<p align="center">
+  <a href="https://hey-its-me-1.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
@@ -64,7 +69,6 @@
 
 <p align="center">
    Reach me: 
-  <a href="https://hey-its-me-1.onrender.com">Portfolio</a> 
   <a href="mailto:js8724285@gmail.com">Email</a> • 
   <a href="https://github.com/JAGDISH-TECH-STUDENT">GitHub</a>
 </p>
