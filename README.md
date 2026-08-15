@@ -46,7 +46,7 @@
 ---
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=JAGDISH-TECH-STUDENT&theme=radical" alt="GitHub Streak" height="165">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAGDISH-TECH-STUDENT&theme=react-dark" alt="Activity Graph">
   <img src="https://streak-stats.demolab.com?user=JAGDISH-TECH-STUDENT&theme=radical" alt="GitHub Streak" height="165">
 </p>
 
