@@ -47,12 +47,6 @@
 **API-Gateway** — Unified entry point & routing layer with auth, rate limiting, and security middleware  
 `Node.js` `Express` `Socket.IO` `JWT/bcrypt` `express-rate-limit`
 
----
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JAGDISH-TECH-STUDENT&theme=radical" alt="GitHub Streak" height="165">
-</p>
 
 ---
 
