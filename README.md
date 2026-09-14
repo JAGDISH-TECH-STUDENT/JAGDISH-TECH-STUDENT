@@ -15,7 +15,7 @@
 -  Currently building **GameZone** — a real-time multiplayer chess/tic-tac-toe platform
 -  Trainee @ AppSquadz Software Pvt. Ltd. — built **Homigo**, an Airbnb caretaker marketplace
 -  Comfortable across the stack: React, Node.js, Express, MongoDB, Socket.io, JWT
--  400+ problems on LeetCode, 100+ on GeeksforGeeks
+-  450+ problems on LeetCode, 150+ on GeeksforGeeks
 -  Ask me about REST APIs, real-time systems (Socket.io), or payment integrations (Razorpay)
 
 ---
